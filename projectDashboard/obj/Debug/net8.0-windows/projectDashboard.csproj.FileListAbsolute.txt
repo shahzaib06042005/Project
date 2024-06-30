@@ -1,0 +1,38 @@
+C:\Users\lenovo\source\repos\projectDashboard\projectDashboard\bin\Debug\net8.0-windows\projectDashboard.exe
+C:\Users\lenovo\source\repos\projectDashboard\projectDashboard\bin\Debug\net8.0-windows\projectDashboard.deps.json
+C:\Users\lenovo\source\repos\projectDashboard\projectDashboard\bin\Debug\net8.0-windows\projectDashboard.runtimeconfig.json
+C:\Users\lenovo\source\repos\projectDashboard\projectDashboard\bin\Debug\net8.0-windows\projectDashboard.dll
+C:\Users\lenovo\source\repos\projectDashboard\projectDashboard\bin\Debug\net8.0-windows\projectDashboard.pdb
+C:\Users\lenovo\source\repos\projectDashboard\projectDashboard\obj\Debug\net8.0-windows\projectDashboard.Form1.resources
+C:\Users\lenovo\source\repos\projectDashboard\projectDashboard\obj\Debug\net8.0-windows\projectDashboard.Properties.Resources.resources
+C:\Users\lenovo\source\repos\projectDashboard\projectDashboard\obj\Debug\net8.0-windows\projectDashboard.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\projectDashboard\projectDashboard\obj\Debug\net8.0-windows\projectDashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\projectDashboard\projectDashboard\obj\Debug\net8.0-windows\projectDashboard.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\projectDashboard\projectDashboard\obj\Debug\net8.0-windows\projectDashboard.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\projectDashboard\projectDashboard\obj\Debug\net8.0-windows\projectDashboard.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\projectDashboard\projectDashboard\obj\Debug\net8.0-windows\projectDashboard.dll
+C:\Users\lenovo\source\repos\projectDashboard\projectDashboard\obj\Debug\net8.0-windows\refint\projectDashboard.dll
+C:\Users\lenovo\source\repos\projectDashboard\projectDashboard\obj\Debug\net8.0-windows\projectDashboard.pdb
+C:\Users\lenovo\source\repos\projectDashboard\projectDashboard\obj\Debug\net8.0-windows\projectDashboard.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\projectDashboard\projectDashboard\obj\Debug\net8.0-windows\ref\projectDashboard.dll
+C:\Users\lenovo\source\repos\projectDashboard\projectDashboard\obj\Debug\net8.0-windows\projectDashboard.form_2.resources
+C:\Users\lenovo\source\repos\projectDashboard\projectDashboard\obj\Debug\net8.0-windows\projectDashboard.form3.resources
+C:\Users\Sharjeel Ahmed\OneDrive\Desktop\resources\projectDashboard\bin\Debug\net8.0-windows\projectDashboard.exe
+C:\Users\Sharjeel Ahmed\OneDrive\Desktop\resources\projectDashboard\bin\Debug\net8.0-windows\projectDashboard.deps.json
+C:\Users\Sharjeel Ahmed\OneDrive\Desktop\resources\projectDashboard\bin\Debug\net8.0-windows\projectDashboard.runtimeconfig.json
+C:\Users\Sharjeel Ahmed\OneDrive\Desktop\resources\projectDashboard\bin\Debug\net8.0-windows\projectDashboard.dll
+C:\Users\Sharjeel Ahmed\OneDrive\Desktop\resources\projectDashboard\bin\Debug\net8.0-windows\projectDashboard.pdb
+C:\Users\Sharjeel Ahmed\OneDrive\Desktop\resources\projectDashboard\obj\Debug\net8.0-windows\projectDashboard.form_2.resources
+C:\Users\Sharjeel Ahmed\OneDrive\Desktop\resources\projectDashboard\obj\Debug\net8.0-windows\projectDashboard.form3.resources
+C:\Users\Sharjeel Ahmed\OneDrive\Desktop\resources\projectDashboard\obj\Debug\net8.0-windows\projectDashboard.Properties.Resources.resources
+C:\Users\Sharjeel Ahmed\OneDrive\Desktop\resources\projectDashboard\obj\Debug\net8.0-windows\projectDashboard.csproj.GenerateResource.cache
+C:\Users\Sharjeel Ahmed\OneDrive\Desktop\resources\projectDashboard\obj\Debug\net8.0-windows\projectDashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharjeel Ahmed\OneDrive\Desktop\resources\projectDashboard\obj\Debug\net8.0-windows\projectDashboard.AssemblyInfoInputs.cache
+C:\Users\Sharjeel Ahmed\OneDrive\Desktop\resources\projectDashboard\obj\Debug\net8.0-windows\projectDashboard.AssemblyInfo.cs
+C:\Users\Sharjeel Ahmed\OneDrive\Desktop\resources\projectDashboard\obj\Debug\net8.0-windows\projectDashboard.csproj.CoreCompileInputs.cache
+C:\Users\Sharjeel Ahmed\OneDrive\Desktop\resources\projectDashboard\obj\Debug\net8.0-windows\projectDashboard.dll
+C:\Users\Sharjeel Ahmed\OneDrive\Desktop\resources\projectDashboard\obj\Debug\net8.0-windows\refint\projectDashboard.dll
+C:\Users\Sharjeel Ahmed\OneDrive\Desktop\resources\projectDashboard\obj\Debug\net8.0-windows\projectDashboard.pdb
+C:\Users\Sharjeel Ahmed\OneDrive\Desktop\resources\projectDashboard\obj\Debug\net8.0-windows\projectDashboard.genruntimeconfig.cache
+C:\Users\Sharjeel Ahmed\OneDrive\Desktop\resources\projectDashboard\obj\Debug\net8.0-windows\ref\projectDashboard.dll
+C:\Users\Sharjeel Ahmed\OneDrive\Desktop\resources\projectDashboard\obj\Debug\net8.0-windows\projectDashboard.Dashboard.resources
